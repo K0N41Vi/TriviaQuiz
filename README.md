@@ -33,10 +33,7 @@ Streamlit を用いて作成しており、回答の正誤判定やスコア集�
 
 以下のURLからアプリを試すことができます。
 
-👉 **（ここに Streamlit Cloud の公開URLを記入）**  
-例：  
-https://your-app-name.streamlit.app
-
+https://blank-app-hg1fh3ngspp.streamlit.app/
 ---
 
 ## 🛠 使用技術
