@@ -346,7 +346,7 @@ else:
         st.success("🏆カンニングしてない??")
     elif rate >= 80:
         st.info("🥈雑学マスター")
-    elif rate >= 40:
-        st.info("🥉いいじゃん")
+    elif rate >= 60:
+        st.info("🥉ちょっと微妙ですね")
     else:
         st.info("📘常識もなければ話の引き出しも少ない人")
